@@ -1,2 +1,14 @@
 # ngsportsresult-pages
-HTML page archive and documentation
+
+静态页面归档仓库
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
